@@ -19,3 +19,31 @@ C:\Users\ELIANA FLOREZ\Desktop\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoLis
 C:\Users\ELIANA FLOREZ\Desktop\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.dll
 C:\Users\ELIANA FLOREZ\Desktop\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.pdb
 C:\Users\ELIANA FLOREZ\Desktop\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.genruntimeconfig.cache
+C:\Users\ELIANA FLOREZ\Documents\ETITC\ITC 10mo Semestre\Electiva .NET\Corte 1\Practicas\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.csproj.AssemblyReference.cache
+C:\Users\ELIANA FLOREZ\Documents\ETITC\ITC 10mo Semestre\Electiva .NET\Corte 1\Practicas\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELIANA FLOREZ\Documents\ETITC\ITC 10mo Semestre\Electiva .NET\Corte 1\Practicas\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.AssemblyInfoInputs.cache
+C:\Users\ELIANA FLOREZ\Documents\ETITC\ITC 10mo Semestre\Electiva .NET\Corte 1\Practicas\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.AssemblyInfo.cs
+C:\Users\ELIANA FLOREZ\Documents\ETITC\ITC 10mo Semestre\Electiva .NET\Corte 1\Practicas\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\ELIANA FLOREZ\Documents\ETITC\ITC 10mo Semestre\Electiva .NET\Corte 1\Practicas\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ELIANA FLOREZ\Documents\ETITC\ITC 10mo Semestre\Electiva .NET\Corte 1\Practicas\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.dll
+C:\Users\ELIANA FLOREZ\Documents\ETITC\ITC 10mo Semestre\Electiva .NET\Corte 1\Practicas\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.pdb
+C:\Users\ELIANA FLOREZ\Documents\ETITC\ITC 10mo Semestre\Electiva .NET\Corte 1\Practicas\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ELIANA FLOREZ\Documents\ETITC\ITC 10mo Semestre\Electiva .NET\Corte 1\Practicas\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ELIANA FLOREZ\Documents\ETITC\ITC 10mo Semestre\Electiva .NET\Corte 1\Practicas\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.exe
+C:\Users\ELIANA FLOREZ\Documents\ETITC\ITC 10mo Semestre\Electiva .NET\Corte 1\Practicas\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.deps.json
+C:\Users\ELIANA FLOREZ\Documents\ETITC\ITC 10mo Semestre\Electiva .NET\Corte 1\Practicas\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.runtimeconfig.json
+C:\Users\ELIANA FLOREZ\Documents\ETITC\ITC 10mo Semestre\Electiva .NET\Corte 1\Practicas\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.runtimeconfig.dev.json
+C:\Users\ELIANA FLOREZ\Documents\ETITC\ITC 10mo Semestre\Electiva .NET\Corte 1\Practicas\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.dll
+C:\Users\ELIANA FLOREZ\Documents\ETITC\ITC 10mo Semestre\Electiva .NET\Corte 1\Practicas\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.pdb
+C:\Users\ELIANA FLOREZ\Documents\ETITC\ITC 10mo Semestre\Electiva .NET\Corte 1\Practicas\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+C:\Users\ELIANA FLOREZ\Documents\ETITC\ITC 10mo Semestre\Electiva .NET\Corte 1\Practicas\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\ELIANA FLOREZ\Documents\ETITC\ITC 10mo Semestre\Electiva .NET\Corte 1\Practicas\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\ELIANA FLOREZ\Documents\ETITC\ITC 10mo Semestre\Electiva .NET\Corte 1\Practicas\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+C:\Users\ELIANA FLOREZ\Documents\ETITC\ITC 10mo Semestre\Electiva .NET\Corte 1\Practicas\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ELIANA FLOREZ\Documents\ETITC\ITC 10mo Semestre\Electiva .NET\Corte 1\Practicas\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\ELIANA FLOREZ\Documents\ETITC\ITC 10mo Semestre\Electiva .NET\Corte 1\Practicas\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\staticwebassets\ToDoList.StaticWebAssets.Manifest.cache
+C:\Users\ELIANA FLOREZ\Documents\ETITC\ITC 10mo Semestre\Electiva .NET\Corte 1\Practicas\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\staticwebassets\ToDoList.StaticWebAssets.xml
+C:\Users\ELIANA FLOREZ\Documents\ETITC\ITC 10mo Semestre\Electiva .NET\Corte 1\Practicas\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\scopedcss\bundle\ToDoList.styles.css
+C:\Users\ELIANA FLOREZ\Documents\ETITC\ITC 10mo Semestre\Electiva .NET\Corte 1\Practicas\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.RazorTargetAssemblyInfo.cache
+C:\Users\ELIANA FLOREZ\Documents\ETITC\ITC 10mo Semestre\Electiva .NET\Corte 1\Practicas\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.csproj.CopyComplete
+C:\Users\ELIANA FLOREZ\Documents\ETITC\ITC 10mo Semestre\Electiva .NET\Corte 1\Practicas\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.genruntimeconfig.cache

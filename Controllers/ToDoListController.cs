@@ -12,12 +12,14 @@ namespace ToDoList.Controllers
 
     public class ToDoListController : Controller
     {
+
         public static List<Tasks> myList = new List<Tasks>();
 
         [HttpGet]
         public ActionResult<IEnumerable<Tasks>> Get()
         {
             return myList;
+
         }
 
         [HttpGet("{id}")]
