@@ -11,6 +11,18 @@ namespace ToDoList.Models
 
         public string taskName { get; set; }
 
-        public bool isComplete { get; set;  }
+        public bool isComplete { get; set; }
+
+        private string _date() {
+            var dateAndTime = DateTime.Now;
+            var Date = dateAndTime.ToShortDateString();
+            return Date;
+        }
+
+        public string TaskDate
+        { 
+            get => _date();
+        }
+
     }
 }

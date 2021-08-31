@@ -64,6 +64,11 @@ namespace ToDoList.Controllers
                     myList.Remove(item);
                     return new string[] { "200", "Tarea Eliminada!!" };
                 }
+                else if (item.id == null)
+                {
+                    myList.Remove(item);
+                    return new string[] { "200", "Tarea Eliminada!!" };
+                }
                 index++;
             }
             return new string[] { "101", "Registro no encontrado!!" };
